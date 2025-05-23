@@ -36,7 +36,7 @@ Each waiver must be stored as a **Waiver ADR** in version control and include:
 
 Store waiver files in your ADR folder:
 ```
-/adr/waivers/00XX-title-of-waiver.md
+/waivers/00XX-title-of-waiver.md
 ```
 
 ---
